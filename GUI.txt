@@ -1,0 +1,15 @@
+we have lots of python library to make use of gui
+like:
+kivy
+tkinter
+qt
+wxpython
+
+What is tkinter?
+ 1)import tkinter module 
+2)create gui application main window
+3)add widgest
+4)enter main event loop
+
+tkinter has various widgets:
+label,button,entry,combination,checkbutton,radio,scrolledtext,spinbox,menubar,notebook.
